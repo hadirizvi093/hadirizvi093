@@ -1,38 +1,24 @@
 Hi there! 👋 I'm Syed Mustafa Hadi Rizvi
-🚀 About Me
-I’m a passionate programmer and cybersecurity enthusiast, always exploring new technologies, building projects, and expanding my skills.
+<br>
+🚀 About Me <br>
+I’m a passionate programmer and cybersecurity enthusiast, always exploring new technologies, building projects, and expanding my skills.<br>
 With a strong foundation in software development and ethical hacking, I’m driven to create, innovate, and solve real-world problems.
+<br>
 
-💻 Technical Skills
-Python (automation, scripting, web scraping, security tools)
+💻 Technical Skills <br>
+-Python (automation, scripting, web scraping, security tools)<br>
+-C++<br>
+-Web Development (HTML, CSS, JavaScript, MAMP environment)<br>
 
-C++ (object-oriented programming, file handling, pointers)
+🔐 Cybersecurity & Ethical Hacking <br>
+-Hands-on experience with Kali Linux and penetration testing<br>
+-Exploring network security, cryptography, and system exploitation<br>
+-Actively learning bug bounty hunting and ethical hacking techniques<br>
 
-Web Development (HTML, CSS, JavaScript, MAMP environment)
-
-
-🔐 Cybersecurity & Ethical Hacking
-Hands-on experience with Kali Linux and penetration testing
-
-Exploring network security, cryptography, and system exploitation
-
-Actively learning bug bounty hunting and ethical hacking techniques
-
-🎓 Certifications
-CS50’s Introduction to Programming with Python – Harvard University
-
-CS50’s Introduction to Cybersecurity – Harvard University
-
-Windows Forensics – Belkasoft
-
-🛠️ Tools & Technologies
-(See the full Tech Stack below!)
-
-📫 Let’s Connect
-🤝 Open to collaborations, freelance projects, and tech discussions.
-
-🌍 Check out my repositories to see what I’m currently working on!
-
+🎓 Certifications <br>
+-CS50’s Introduction to Programming with Python – Harvard University<br>
+-CS50’s Introduction to Cybersecurity – Harvard University<br>
+-Windows Forensics – Belkasoft<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hadi.rizvi_094) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smhr093) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hadirizvi093@gmail.com) 
@@ -44,7 +30,10 @@ Windows Forensics – Belkasoft
 ![](https://nirzak-streak-stats.vercel.app/?user=hadirizvi093&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hadirizvi093&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=hadirizvi093&icon=0&color=0)](https://visitcount.itsvg.in)
+<br>
+📫 Let’s Connect <br>
+🤝 Open to collaborations, freelance projects, and tech discussions.<br>
+<br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
